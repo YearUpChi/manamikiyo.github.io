@@ -18,7 +18,8 @@ section {background-color: transparent;
 		float:right;
 		width: 48%;
 		margin: 1%;
-		display: inline-block;}
+		display: inline-block;
+		text-align: center;}
 nav ul ul {
 	display: none;
 }
