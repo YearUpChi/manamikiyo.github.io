@@ -14,7 +14,7 @@ nav ul{ list-style-type: none;
 		text-align: center;}
 nav ul li {display: inline-block;
 			margin:0 10px;}
-section {background-color: #ccc;
+section {background-color: transparent;
 		float:right;
 		width: 48%;
 		margin: 1%;
