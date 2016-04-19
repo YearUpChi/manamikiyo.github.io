@@ -6,6 +6,9 @@ body {
 	background-color: #7CB1D9;
 	width: 80%;
 	margin: 0 auto;
+	box-shadow: 5px 5px 5px #FFFFFF;
+			 border-radius: 15px;
+			 overflow: auto;
 }
 nav {color: #fff;
 	background-color: #00007A;
