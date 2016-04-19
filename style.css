@@ -21,7 +21,7 @@ section {background-color: transparent;
 		display: inline-block;
 		text-align: center;}
 .text {background-color: #ccc;
-		width: auto;}
+		width: 48%;}
 nav ul ul {
 	display: none;
 }
