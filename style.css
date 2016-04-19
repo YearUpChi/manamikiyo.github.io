@@ -20,7 +20,6 @@ section {background-color: transparent;
 		float:right;
 		width: 48%;
 		margin: 1%;
-		display: inline-block;
 		text-align: center;}
 .text {background-color: #ccc;
 		width: 48%;}
