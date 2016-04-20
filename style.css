@@ -2,15 +2,8 @@ body {
 	background-image: url(Images/background.png);
 	font-family: Helvetica,Arial,sans-serf;
 }
-background-repeat: no-repeat;
-padding-top: 10px;
-background-position: center left;
-		background-color: #aeb1b4;
-		border-radius: 10px;
-		margin: auto;
-		background-size: 70%;
-}
-h1 { 	height: 150px;
+header{ text-align: center; }
+h1 { height: 150px;
 		width: auto;
 		font-family: Trebuchet MS Bold Italic, serif;
 		font-size: 9 em;
@@ -25,7 +18,7 @@ figcaption {display: block;
 p{ margin-top: 0em;
 line-height: 20px;}
 nav {
-	background-color: #B163CB;
+	background-color: #2589BD;
 	color: #000000;
 	text-align: center;
 }
@@ -104,6 +97,10 @@ nav ul ul li {
 			 border-radius: 15px;
 			 overflow: auto;
 			 }
+section{ width: 52%;
+		float: right;  }
+.text{ width: 48%;
+		float: left; }
 dt { font-weight: bold;
 }
 img { opacity: 1.0;
