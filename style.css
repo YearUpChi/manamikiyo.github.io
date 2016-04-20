@@ -30,8 +30,11 @@ nav ul li:hover > ul {
 		display: block;
 	}
 nav ul ul {
-	background: #5f6975; border-radius: 0px; padding: 0;
-	position: absolute; top: 100%;
+	background: #5f6975; 
+	border-radius: 0px; 
+	padding: 0;
+	position: absolute; 
+	top: 100%;
 }
 	nav ul ul li {
 		float: none; 
@@ -57,6 +60,7 @@ nav a {
 	line-height: 35px;
 	text-decoration:none;
 }
+nav a:hover{background-color: #000;}
 header{background-color: #7CB1D9;
 text-align: center;
 padding-top: 5px;}
