@@ -113,13 +113,7 @@ img { opacity: 1.0;
 		}
 ul { margin-top: 0em; 
 list-style-image : url();}
-footer { background-color: #B163CB;
-		color: #000000;
-		font-size: 1em;
-		bottom: 0;
-		position: relative;
-		font-style: italic;
-		}
+
 #push{height:120px;}
 #img a:hover {opacity: 0.4;
     filter: alpha(opacity=40);}
