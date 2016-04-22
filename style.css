@@ -7,11 +7,10 @@ header { background-repeat: no-repeat;
 padding-top: 10px;
 background-position: center left;
 		background-color: #aeb1b4;
-		border-radius: 10px;
 		margin: auto;
 		background-size: 70%;
 }
-h1 { 	height: 150px;
+h1 { 	height: 60px;
 		width: auto;
 		font-family: Trebuchet MS Bold Italic, serif;
 		font-size: 9 em;
@@ -97,11 +96,10 @@ nav ul ul li {
 	display:list-item;
 	position: relative;
 }
-.frame { 	 margin: 0 auto;
+.frame { 	 margin: 20px auto;
              width: 85%;
-             padding: 0 10px 10px;
+             padding: 0 0px 10px;
 			 background-color: #FFFFFF;
-			 box-shadow: 5px 5px 5px #FFFFFF;
 			 border-radius: 15px;
 			 overflow: auto;
 			 }
