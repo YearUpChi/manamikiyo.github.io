@@ -1,8 +1,18 @@
-body{background-image: url(Images/planeswalker.png);}
+body{background-image: url(Images/planeswalker.png);
+    font-family: Arial;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #8e3634;
+    margin: 0;
+    display: table;
+}
 #frame {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
     }
 a:hover {background-color: #20738D;
-			color:#000; }
+			color:#000;
+			font-style: italic; }
