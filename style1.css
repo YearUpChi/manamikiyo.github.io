@@ -1,0 +1,8 @@
+body{background-image: url(Images/planeswalker.png);}
+#frame {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    }
+a:hover {background-color: #20738D;
+			color:#000; }
