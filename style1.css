@@ -6,13 +6,13 @@ body{background-image: url(Images/planeswalker.png);
     background-size: cover;
     background-color: #8e3634;
     margin: 0;
-    display: table;
+    display: table-column;
 }
 #frame {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
-    horizontal-align: middle;
+    
     }
  a:active, a:hover, a:visited, a:link {
 	text-decoration: none; 
