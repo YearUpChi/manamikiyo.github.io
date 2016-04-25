@@ -10,7 +10,7 @@ background-position: center left;
 		margin: auto;
 		background-size: 70%;
 		text-align: center;
-	
+
 }
 h1 { 	height: 60px;
 		width: auto;
@@ -109,6 +109,7 @@ nav ul ul li {
 			 border-radius: 15px;
 			 overflow: auto;
 			 }
+
 dt { font-weight: bold;
 }
 img { opacity: 1.0;
