@@ -111,8 +111,7 @@ nav ul ul li {
 			 }
 section{width: 48%;
 		float:right;}
-main{width: 52%;
-		float:left;}
+
 dt { font-weight: bold;
 }
 img { opacity: 1.0;
@@ -130,7 +129,7 @@ footer{background-color: #20738D;
 		}
 #img a:hover {opacity: 0.4;
     filter: alpha(opacity=40);}
-#imgmain {margin-left: 15%}
+#imgmain {text-align: center;}
 /*unvisited link*/
 a:link {color: #888899;
 	
