@@ -104,7 +104,7 @@ nav ul ul li {
 }
 .frame { 	 margin: 20px auto;
              width: 85%;
-             padding: 0 0px 10px;
+             padding: 0 0px 0px;
 			 background-color: #FFFFFF;
 			 border-radius: 15px;
 			 overflow: auto;
@@ -127,7 +127,7 @@ footer{background-color: #20738D;
 		text-align: center;
 		font-size: small;
 		font-style: italic;
-		padding-bottom: 0px;}
+		}
 #img a:hover {opacity: 0.4;
     filter: alpha(opacity=40);}
 #imgmain {margin-left: 15%}
