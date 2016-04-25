@@ -1,4 +1,5 @@
-body{background-image: url(Images/planeswalker.png);
+body{
+	background-image: url(Images/planeswalker.png);
     font-family: Arial;
     background-position: center center;
     background-repeat: no-repeat;
