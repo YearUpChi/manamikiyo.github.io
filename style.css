@@ -122,7 +122,7 @@ img { opacity: 1.0;
 ul { margin-top: 0em; 
 list-style-image : url();}
 
-.clear{height:240px;}
+.clear{height:280px;}
 #img a:hover {opacity: 0.4;
     filter: alpha(opacity=40);}
 #imgmain {margin-left: 15%}
