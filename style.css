@@ -109,7 +109,8 @@ nav ul ul li {
 			 border-radius: 15px;
 			 overflow: auto;
 			 }
-
+section{width: 48%;
+		float:right;}
 dt { font-weight: bold;
 }
 img { opacity: 1.0;
