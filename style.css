@@ -123,6 +123,10 @@ ul { margin-top: 0em;
 list-style-image : url();}
 
 .clear{height:340px;}
+footer{background-color: #20738D;
+		text-align: center;
+		font-size: small;
+		font-style: italic;}
 #img a:hover {opacity: 0.4;
     filter: alpha(opacity=40);}
 #imgmain {margin-left: 15%}
