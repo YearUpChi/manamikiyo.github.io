@@ -6,7 +6,7 @@ body{background-image: url(Images/planeswalker.png);
     background-size: cover;
     background-color: #8e3634;
     margin: 0;
-    display: table-column;
+    display: table;
 }
 #frame {
     display: table-cell;
