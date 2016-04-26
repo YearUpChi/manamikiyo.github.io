@@ -130,7 +130,8 @@ footer{background-color: #20738D;
 		}
 #img a:hover {opacity: 0.4;
     filter: alpha(opacity=40);}
-#imgmain {text-align: center;}
+#imgmain {text-align: center;
+			padding-top: 20px;}
 /*unvisited link*/
 a:link {color: #888899;
 	
