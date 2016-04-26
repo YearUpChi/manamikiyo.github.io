@@ -18,9 +18,10 @@ body{
         }
  a:active, a:visited, a:link {
 	text-decoration: none; 
-	color: #000; 
+	color: #75321A; 
 }
 a:hover {background-color: #20738D;
 			color:#147090;
 			font-style: italic; }
+
 #frame a:hover{background-color: #fff;}
