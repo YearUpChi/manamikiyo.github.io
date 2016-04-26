@@ -19,8 +19,8 @@ body{
  a:active, a:visited, a:link {
 	text-decoration: none; 
 	color: #000; 
-	background-color: none;
+	background-color: clear;
 }
 a:hover {background-color: #20738D;
-			color:#000;
+			color:#147090;
 			font-style: italic; }
