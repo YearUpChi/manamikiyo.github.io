@@ -111,7 +111,8 @@ nav ul ul li {
 			 overflow: auto;
 			 }
 section{width: 48%;
-		float:right;}
+		float:right;
+		padding-bottom: 50px;}
 
 dt { font-weight: bold;
 }
