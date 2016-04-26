@@ -14,7 +14,7 @@ body{
     text-align: center;
     vertical-align: middle;
     margin:500px;
-    background-color: transparent;
+    background-color: hsla(0, 18%, 93%, 0.51);
         }
  a:active, a:visited, a:link {
 	text-decoration: none; 
