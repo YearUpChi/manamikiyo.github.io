@@ -16,7 +16,7 @@ body{
     margin:500px;
     background-color: #fff;
         }
- a:active, a:hover, a:visited, a:link {
+ a:active, a:visited, a:link {
 	text-decoration: none; 
 	color: #000; 
 	background-color: none;
