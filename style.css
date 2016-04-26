@@ -122,7 +122,7 @@ img { opacity: 1.0;
 ul { margin-top: 0em; 
 list-style-image : url();}
 
-.clear{height:340px;}
+.clear{height:10%;}
 footer{background-color: #20738D;
 		text-align: center;
 		font-size: small;
