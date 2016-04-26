@@ -121,7 +121,7 @@ img { opacity: 1.0;
 		}
 ul { margin-top: 0em; 
 list-style-image : url();}
-
+.welcomeclear{height:320px;}
 .clear{height:50px;}
 footer{background-color: #20738D;
 		text-align: center;
