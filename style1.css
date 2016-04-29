@@ -26,4 +26,6 @@ a:hover {background-color: #20738D;
 			font-style: italic;
 			 }
 footer {color: #fff;
-		font-style: italic;}
+		font-style: italic;
+	background-color: rgba(0, 0, 0, 0.5);
+}
